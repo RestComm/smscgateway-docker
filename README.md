@@ -1,4 +1,5 @@
 [![Travis build status](https://travis-ci.org/RestComm/smscgateway-docker.png?branch=master)](https://travis-ci.org/RestComm/smscgateway-docker)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fsmscgateway-docker.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fsmscgateway-docker?ref=badge_shield)
 
 # smscgateway-docker
 
@@ -53,3 +54,7 @@ This docker is based on phusion/baseimage which comes with an init process /sbin
 2. tcpdump cron and logs
 3. env_files without smsc in their filename
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fsmscgateway-docker.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FRestComm%2Fsmscgateway-docker?ref=badge_large)
